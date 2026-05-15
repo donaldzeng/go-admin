@@ -24,3 +24,4 @@ config/settings.deva.yml
 go-admin-server
 CLAUDE.md
 .claude/
+config/settings.local.dev.yml
